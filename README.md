@@ -1,4 +1,4 @@
 # vStreamBeta
 
-vStream <a href="https://github.com/ludopotte/vStream/releases/tag/vstream2021">https://github.com/ludopotte/vStream/releases/tag/vstream2021
+vStream <a href="https://github.com/sizanic/vStreamBeta/releases/tag/vstream2021">https://github.com/sizanic/vStreamBeta/releases/tag/vstream2021
 
